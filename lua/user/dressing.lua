@@ -5,7 +5,9 @@ end
 
 dressing.setup({
   input = {
-    winblend = 0,
+    winoptions = {
+      winblend = 0,
+    }
   }
 })
 
